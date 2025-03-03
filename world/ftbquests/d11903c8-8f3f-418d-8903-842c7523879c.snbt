@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d11903c88f3f418d8903842c7523879c"
+	name: "yuve1e1e#d11903c8"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,583 @@
+{
+  "ae2wtlib:recipe/magnet_card": {
+    "criteria": {
+      "has_wct": "2025-03-01 09:38:33 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2025-03-01 09:38:33 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2025-03-01 09:38:33 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2025-03-01 09:38:33 +0000",
+      "has_wct": "2025-03-01 09:38:33 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2025-03-01 09:38:33 +0000",
+      "has_wct": "2025-03-01 09:38:33 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2025-03-01 09:38:33 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2025-03-01 09:38:33 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2025-03-01 09:38:33 +0000",
+      "has_wpt": "2025-03-01 09:38:33 +0000",
+      "has_wct": "2025-03-01 09:38:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-03-01 09:38:33 +0000"
+    },
+    "done": true
+  },
+  "occultism:chalks/root": {
+    "criteria": {
+      "always": "2025-03-01 09:38:33 +0000"
+    },
+    "done": true
+  },
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2025-03-01 09:38:33 +0000"
+    },
+    "done": true
+  },
+  "occultism:occultism/root": {
+    "criteria": {
+      "occultism_present": "2025-03-01 09:38:33 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2025-03-01 09:38:33 +0000",
+      "has_wpt": "2025-03-01 09:38:33 +0000"
+    },
+    "done": true
+  },
+  "ftbstuff:root": {
+    "criteria": {
+      "0": "2025-03-01 09:38:33 +0000"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipe/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2025-03-01 09:38:33 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-03-01 09:38:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_cold_ocean": "2025-03-01 11:21:42 +0000",
+      "minecraft:cold_ocean": "2025-03-01 09:41:18 +0000",
+      "minecraft:deep_ocean": "2025-03-01 17:25:38 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-01 17:27:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-03-01 09:45:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-03-01 09:45:35 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2025-03-01 09:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-01 09:52:31 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:root": {
+    "criteria": {
+      "stick": "2025-03-01 09:59:12 +0000"
+    },
+    "done": true
+  },
+  "mekanism:item_transport": {
+    "criteria": {
+      "basic_logistical_transporter": "2025-03-01 10:18:58 +0000"
+    },
+    "done": true
+  },
+  "mekanism:fluid_transport": {
+    "criteria": {
+      "basic_mechanical_pipe": "2025-03-01 10:22:05 +0000"
+    },
+    "done": true
+  },
+  "actuallyadditions:pickup_coffee": {
+    "criteria": {
+      "coffee_beans": "2025-03-01 10:22:29 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/craft_revolver": {
+    "criteria": {
+      "has_item": "2025-03-01 10:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-03-01 12:33:52 +0000",
+      "golden_apple": "2025-03-01 17:20:14 +0000",
+      "rotten_flesh": "2025-03-01 16:28:26 +0000",
+      "potato": "2025-03-01 15:52:00 +0000",
+      "cooked_cod": "2025-03-01 10:28:22 +0000",
+      "beef": "2025-03-02 22:11:17 +0000",
+      "porkchop": "2025-03-01 16:29:06 +0000",
+      "cooked_salmon": "2025-03-02 21:21:16 +0000",
+      "golden_carrot": "2025-03-01 12:43:45 +0000"
+    },
+    "done": false
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-03-01 10:36:26 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "crafting_table": "2025-03-01 10:37:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-01 10:37:36 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "0": "2025-03-01 10:47:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2025-03-01 10:58:35 +0000"
+    },
+    "done": true
+  },
+  "ftb:pickup_redstone": {
+    "criteria": {
+      "pickup_redstone": "2025-03-01 11:00:32 +0000"
+    },
+    "done": true
+  },
+  "obtrophies:one_trophy": {
+    "criteria": {
+      "has_trophy": "2025-03-01 11:05:12 +0000"
+    },
+    "done": true
+  },
+  "obtrophies:all_vanilla_trophies": {
+    "criteria": {
+      "turtle": "2025-03-01 11:05:12 +0000"
+    },
+    "done": false
+  },
+  "obtrophies:root": {
+    "criteria": {
+      "has_trophy": "2025-03-01 11:05:12 +0000"
+    },
+    "done": true
+  },
+  "constructionstick:iron_stick": {
+    "criteria": {
+      "iron_stick": "2025-03-01 11:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-01 11:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-01 11:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-03-01 11:39:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-01 11:51:44 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-03-01 11:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:blaze": "2025-03-01 12:36:54 +0000",
+      "minecraft:skeleton": "2025-03-01 16:07:54 +0000",
+      "minecraft:piglin": "2025-03-01 12:38:01 +0000",
+      "minecraft:phantom": "2025-03-02 23:16:38 +0000",
+      "minecraft:magma_cube": "2025-03-01 14:10:12 +0000",
+      "minecraft:piglin_brute": "2025-03-01 12:38:22 +0000",
+      "minecraft:vex": "2025-03-01 14:40:53 +0000",
+      "minecraft:wither_skeleton": "2025-03-01 12:31:48 +0000",
+      "minecraft:bogged": "2025-03-01 11:57:57 +0000",
+      "minecraft:ghast": "2025-03-01 17:30:55 +0000",
+      "minecraft:evoker": "2025-03-01 11:58:22 +0000",
+      "minecraft:hoglin": "2025-03-01 12:30:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:bogged": "2025-03-01 11:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-03-01 11:58:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:oritech/exo_helmet": {
+    "criteria": {
+      "got_exo_helmet": "2025-03-01 11:58:40 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+    "criteria": {
+      "criteria_0": "2025-03-01 12:02:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-01 12:11:20 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2025-03-01 12:11:40 +0000"
+    },
+    "done": true
+  },
+  "brickfurnace:brick_furnace": {
+    "criteria": {
+      "has_brick": "2025-03-01 12:16:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "vegetable_noodles": "2025-03-01 12:22:22 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-03-01 12:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-01 12:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-01 12:24:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-01 12:36:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-03-01 12:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-03-01 12:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-03-01 12:44:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-03-01 12:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-03-01 12:55:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-03-01 14:09:57 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2025-03-01 14:10:03 +0000"
+    },
+    "done": true
+  },
+  "integratedterminals:storage_terminal/gui_storage_terminal": {
+    "criteria": {
+      "criteria_0": "2025-03-01 14:13:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-03-01 14:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-01 14:37:53 +0000"
+    },
+    "done": true
+  },
+  "mekanism:configurator": {
+    "criteria": {
+      "configurator": "2025-03-01 14:45:12 +0000"
+    },
+    "done": true
+  },
+  "jumbofurnace:upgrade_jumbo_furnace": {
+    "criteria": {
+      "upgrade_jumbo_furnace": "2025-03-01 14:55:41 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-03-01 15:09:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-03-01 15:14:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "nether_wart": "2025-03-01 15:14:13 +0000",
+      "brown_mushroom": "2025-03-02 23:37:14 +0000"
+    },
+    "done": false
+  },
+  "obsidianboat:obsidianboat": {
+    "criteria": {
+      "placed_boat": "2025-03-01 15:23:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2025-03-01 15:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-03-01 16:00:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_heater": {
+    "criteria": {
+      "has_item": "2025-03-01 16:10:48 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-03-01 16:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-01 16:24:19 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_casing": {
+    "criteria": {
+      "steel_casing": "2025-03-01 16:51:23 +0000"
+    },
+    "done": true
+  },
+  "integrateddynamics:network_foundations/networks_logic": {
+    "criteria": {
+      "criteria_0": "2025-03-01 17:00:51 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/main_root": {
+    "criteria": {
+      "has_item": "2025-03-01 17:22:04 +0000"
+    },
+    "done": true
+  },
+  "mekanism:qio_drive_array": {
+    "criteria": {
+      "qio_drive_array": "2025-03-01 17:30:42 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2025-03-01 17:35:09 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2025-03-01 17:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-01 17:44:41 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2025-03-02 21:21:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-03-02 21:26:07 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-03-02 21:29:32 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-03-02 21:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-02 22:21:26 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:enchanting_apparatus": {
+    "criteria": {
+      "has_enchanting_apparatus": "2025-03-02 22:36:13 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2025-03-02 22:40:38 +0000"
+    },
+    "done": true
+  },
+  "mekanism:installer": {
+    "criteria": {
+      "installer": "2025-03-02 22:40:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-03-02 23:32:10 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

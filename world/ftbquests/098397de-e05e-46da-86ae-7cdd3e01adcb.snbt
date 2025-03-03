@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "098397dee05e46da86ae7cdd3e01adcb"
+	name: "GiladGil#098397de"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
